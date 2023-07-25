@@ -1,0 +1,19 @@
+body {
+    background-image: url(food.jpg);
+  }
+  
+  .text-white {
+    background-image: linear-gradient(to left, #cb202d, #f8a71b); /* Zomato gradient */
+    color: #fff; /* Zomato white text color */
+  }
+  
+  .btn {
+    background-image: linear-gradient(to left, #f85032, #e73827); /* Zomato gradient */
+    color: #fff; /* Zomato white text color */
+  }
+  
+  .card {
+    background-image: linear-gradient(to left, #ff4e50, #f9d423); /* Zomato gradient */
+    color: #232f3e; /* Zomato dark text color */
+  }
+  
