@@ -1,0 +1,41 @@
+body {
+    background-image: url(Thiruvalluvar.jpeg);
+  }
+  
+  div {
+    color: #232f3e; /* Amazon dark text color */
+    text-align: center;
+  }
+  
+  h4 {
+    background-color: #ff9900; /* Amazon orange background color */
+    color: #232f3e; /* Amazon dark text color */
+  }
+  
+  h2 {
+    background-color: #007185; /* Amazon blue background color */
+    color: #fff; /* Amazon white text color */
+  }
+  
+  h5 {
+    background-color: #ff9900; /* Amazon orange background color */
+    color: #fff; /* Amazon white text color */
+  }
+  
+  .btn {
+    border-radius: 5px;
+    background-image: linear-gradient(to left, #f0c14b, #b4790e); /* Amazon gradient */
+    color: #232f3e; /* Amazon dark text color */
+    height: 30px;
+  }
+  
+  #kural {
+    background-image: linear-gradient(to left, #f0c14b, #b4790e); /* Amazon gradient */
+    color: #fff; /* Amazon white text color */
+  }
+  
+  h1 {
+    color: #232f3e; /* Amazon dark text color */
+    text-align: center;
+  }
+  
